@@ -1,0 +1,1140 @@
+{
+  "version": "1.0.0",
+  "commands": [
+    {
+      "command_type": "play_bgm",
+      "id": 11
+    },
+    {
+      "command_type": "show_background",
+      "id": 23
+    },
+    {
+      "command_type": "message",
+      "text": "-主人公の学校にて"
+    },
+    {
+      "command_type": "show_background",
+      "id": -1
+    },
+    {
+      "command_type": "show_background",
+      "id": 12
+    },
+    {
+      "command_type": "play_sfx",
+      "id": 7
+    },
+    {
+      "command_type": "message",
+      "text": "(チャイム音)"
+    },
+    {
+      "command_type": "stop_sfx"
+    },
+    {
+      "command_type": "click_wait"
+    },
+    {
+      "command_type": "show_character",
+      "id": 0,
+      "position": "left",
+      "chara_id": 0,
+      "flip": "right"
+    },
+    {
+      "command_type": "message",
+      "name": "ユキ",
+      "text": "「ふぅ～！最後の授業も終わったし、今日はもう帰ろうかな。」"
+    },
+    {
+      "command_type": "show_character",
+      "position": "left",
+      "chara_id": -1
+    },
+    {
+      "command_type": "show_character",
+      "id": 0,
+      "position": "center",
+      "chara_id": 0
+    },
+    {
+      "command_type": "message",
+      "name": "ユキ",
+      "text": "私の名前は桜田　ユキ。普通の高校に通う至って普通の女子高生。"
+    },
+    {
+      "command_type": "show_character",
+      "id": 0,
+      "position": "left",
+      "chara_id": 0
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": -1
+    },
+    {
+      "command_type": "show_character",
+      "id": 0,
+      "position": "right",
+      "chara_id": 1
+    },
+    {
+      "command_type": "message",
+      "name": "怜奈",
+      "text": "「ユキ、今日の放課後予定ある?」"
+    },
+    {
+      "command_type": "message",
+      "name": "ユキ",
+      "text": "「あ、怜奈ちゃん!」"
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": -1
+    },
+    {
+      "command_type": "show_character",
+      "position": "left",
+      "chara_id": -1
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": 1,
+      "id": 2
+    },
+    {
+      "command_type": "message",
+      "text": "この子は夜影　怜奈ちゃん。物静かで表情を表に出さないけど、可愛くてとてもいい子だよ。"
+    },
+    {
+      "command_type": "click_wait"
+    },
+    {
+      "command_type": "show_background",
+      "id": -1
+    },
+    {
+      "command_type": "show_background",
+      "id": 9
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": -1
+    },
+    {
+      "command_type": "show_character",
+      "position": "left",
+      "chara_id": 0,
+      "id": 1,
+      "flip": "right"
+    },
+    {
+      "command_type": "message",
+      "text": "「今日はもう家に帰って本を読もうと思っていたの。」",
+      "name": "ユキ"
+    },
+    {
+      "command_type": "show_character",
+      "position": "left",
+      "chara_id": 0,
+      "id": 0,
+      "flip": "right"
+
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": 1,
+      "id": 0
+    },
+    {
+      "command_type": "message",
+      "text": "「そう。じゃあ、私に付き合ってくれない?」",
+      "name": "怜奈"
+    },
+    {
+      "command_type": "show_character",
+      "position": "left",
+      "chara_id": 0,
+      "id": 3,
+      "flip": "right"
+    },
+    {
+      "command_type": "message",
+      "text": "どこか行くの?",
+      "name": "ユキ"
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": 1,
+      "id": 2
+    },
+    {
+      "command_type": "message",
+      "text": "最近知ったんだけど、私の家の近くに放棄された学校があるの。そこに幽霊を見に肝試しに行こうと思って。",
+      "name": "怜奈"
+    },
+    {
+      "command_type": "message",
+      "text": "幽霊・・・。ごめんね怜奈ちゃん。私幽霊苦手なの。",
+      "name": "ユキ"
+    },
+    {
+      "command_type": "message",
+      "text": "「楽しみね。写真に収めたいわ。」",
+      "name": "怜奈"
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": -1
+    },
+    {
+      "command_type": "show_character",
+      "position": "left",
+      "chara_id": -1
+    },
+    {
+      "command_type": "message",
+      "text": "幽霊なんて信じないが、それでも怖いものは怖い でも怜奈ちゃんは聞いてくれそうになかった。"
+    },
+    {
+      "command_type": "click_wait"
+    },
+    {
+      "command_type": "show_background",
+      "id": -1
+    },
+    {
+      "command_type": "show_background",
+      "id": 12
+    },
+    {
+      "command_type": "show_character",
+      "position": "left",
+      "chara_id": 2,
+      "id": 0
+    },
+    {
+      "command_type": "message",
+      "text": "「何の話をしてるの?」",
+      "name": "薫"
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": 1,
+      "id": 0
+    },
+    {
+      "command_type": "message",
+      "text": "「薫ちゃ～ん・・・。」",
+      "name": "ユキ"
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": -1
+    },
+    {
+      "command_type": "show_character",
+      "position": "left",
+      "chara_id": -1
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": 2,
+      "id": 2
+    },
+    {
+      "command_type": "message",
+      "text": "この子は佐村　薫ちゃん。怜奈ちゃんとはまた違ってとてもかっこいいもう一人の友達。"
+    },
+    {
+      "command_type": "click_wait"
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": -1
+    },
+    {
+      "command_type": "show_character",
+      "position": "left",
+      "chara_id": 1,
+      "id": 0
+    },
+    {
+      "command_type": "message",
+      "text": "「あ、薫。私たち今夜家の近くの廃校に肝試しに行こうと思っていたの。」",
+      "name": "怜奈"
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": 2,
+      "id": 0
+    },
+    {
+      "command_type": "message",
+      "text": "「へぇ・・・。面白そうじゃん。私も付いていくわ。」",
+      "name": "薫"
+    },
+    {
+      "command_type": "message",
+      "text": "「よし。3人もいれば怖いものなしね。」",
+      "name": "怜奈"
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": 0,
+      "id": 0
+    },
+    {
+      "command_type": "message",
+      "text": "「まだ行くだなんて言ってないのに・・・。」",
+      "name": "ユキ"
+    },
+    {
+      "command_type": "click_wait"
+    },
+    {
+      "command_type": "show_character",
+      "position": "left",
+      "chara_id": -1
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": -1
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": -1
+    },
+    {
+      "command_type": "show_background",
+      "id": -1
+    },
+    {
+      "command_type": "show_background",
+      "id": 14
+    },
+    {
+      "command_type": "play_bgm",
+      "id": 2
+    },
+    {
+      "command_type": "message",
+      "text": "その日の夜、私たちは廃校に着いた。見る影もなく寂れていて、もう何年も放置されているようだった。"
+    },
+    {
+      "command_type": "show_character",
+      "position": "left",
+      "chara_id": 1,
+      "id": 1
+    },
+    {
+      "command_type": "message",
+      "text": "「着いたわ。とても古そうね。幽霊がいるに違いないわ。」",
+      "name": "怜奈"
+    },
+    {
+      "command_type": "show_character",
+      "position": "left",
+      "chara_id": 1,
+      "id": 2
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": 0,
+      "id": 5
+    },
+    {
+      "command_type": "message",
+      "text": "「もう帰りたい・・・。」",
+      "name": "ユキ"
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": 2,
+      "id": 0
+    },
+    {
+      "command_type": "message",
+      "text": "「何よ猫みたいに怯えちゃって。すぐ終わるわよ。それで怜奈、どこから入るの?」",
+      "name": "薫"
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": 2,
+      "id": 4
+    },
+    {
+      "command_type": "message",
+      "text": "えーっと、友達が学校の裏に避難用の階段があると言っていたの。そこからなら校舎の中に入れるみたい。どうやら、最上階の鍵も開いたままらしい。",
+      "name": "怜奈"
+    },
+    {
+      "command_type": "message",
+      "text": "廃校ともなれば普通そうなのだろうが、その子一体何者なのよ・・・"
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": 2,
+      "id": 2
+    },
+    {
+      "command_type": "message",
+      "text": "「よし!ならその階段から行ってみましょう!」",
+      "name": "薫"
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": 0,
+      "id": 3
+    },
+    {
+      "command_type": "message",
+      "text": "「早く、終わってほしいなぁ・・・。」",
+      "name": "ユキ"
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": -1
+    },
+    {
+      "command_type": "show_character",
+      "position": "left",
+      "chara_id": -1
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": -1
+    },
+    {
+      "command_type": "click_wait"
+    },
+    {
+      "command_type": "show_background",
+      "id": -1
+    },
+    {
+      "command_type": "show_background",
+      "id": 0
+    },
+    {
+      "command_type": "message",
+      "text": "学校の裏へと回ると、確かにそこには避難用ともとれる階段があった。"
+    },
+    {
+      "command_type": "show_character",
+      "position": "left",
+      "chara_id": 1,
+      "id": 0
+    },
+    {
+      "command_type": "message",
+      "text": "「見つけた。早くいきましょう。」",
+      "name": "怜奈"
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": 2,
+      "id": 0
+    },
+    {
+      "command_type": "message",
+      "text": "「こんな廃校なのに妙に綺麗ね、この階段。」",
+      "name": "薫"
+    },
+    {
+      "command_type": "message",
+      "text": "「ほら。二人とも早く。」",
+      "name": "怜奈"
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": 0,
+      "id": 0
+    },
+    {
+      "command_type": "message",
+      "text": "「ま、待ってよ～!」",
+      "name": "ユキ"
+    },
+    {
+      "command_type": "click_wait"
+    },
+    {
+      "command_type": "show_character",
+      "position": "left",
+      "chara_id": -1
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": -1
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": -1
+    },
+    {
+      "command_type": "show_background",
+      "id": -1
+    },
+    {
+      "command_type": "show_background",
+      "id": 13
+    },
+    {
+      "command_type": "message",
+      "text": "私は慌てて二人の後を追い、そして最上階に到達した。"
+    },
+    {
+      "command_type": "show_character",
+      "position": "left",
+      "chara_id": 0,
+      "id": 2
+
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": 1,
+      "id": 1
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": 2,
+      "id": 5
+    },
+    {
+      "command_type": "message",
+      "text": "「ここにドアがあるわね。怜奈の言うとおりドアに鍵はかかってないわ。」",
+      "name": "薫"
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": 1,
+      "id": 2
+    },
+    {
+      "command_type": "message",
+      "text": "「それじゃ、早く中に入りましょう。」",
+      "name": "怜奈"
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": 2,
+      "id": 3
+    },
+    {
+      "command_type": "message",
+      "text": "「待ちなさい。ライトとか持ってきてないの?」",
+      "name": "薫"
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": 1,
+      "id": 3
+    },
+    {
+      "command_type": "message",
+      "text": "「え?なんで?」",
+      "name": "怜奈"
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": 2,
+      "id": 3
+    },
+    {
+      "command_type": "message",
+      "text": "「あなたねぇ、肝試しに来たのにライト無いとか、普通あり得ないでしょ?」",
+      "name": "薫"
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": 1,
+      "id": 0
+    },
+    {
+      "command_type": "message",
+      "text": "「あ、忘れてた。」",
+      "name": "怜奈"
+    },
+    {
+      "command_type": "show_character",
+      "position": "left",
+      "chara_id": 0,
+      "id": 5
+    },
+    {
+      "command_type": "message",
+      "text": "今すぐ帰りたいよぅ・・・。二人とも聞いてくれないなんてひどい・・・。」",
+      "name": "ユキ"
+    },
+    {
+      "command_type": "message",
+      "text": "「まったく、仕方ないわね・・・。しょうがないから携帯のライトを使いましょう。」",
+      "name": "薫"
+    },
+    {
+      "command_type": "message",
+      "text": "「おぉ。さすが薫さん。対応もクールだねぇ。」",
+      "name": "怜奈"
+    },
+    {
+      "command_type": "message",
+      "text": "「私を後ろにしないで!手も握って!」",
+      "name": "ユキ"
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": 1,
+      "id": 3
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": 2,
+      "id": 0
+    },
+    {
+      "command_type": "message",
+      "text": "「それじゃ、行くわよ!」",
+      "name": "薫"
+    },
+    {
+      "command_type": "clear_message"
+    },
+    {
+      "command_type": "show_character",
+      "position": "left",
+      "chara_id": -1
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": -1
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": -1
+    },
+    {
+      "command_type": "click_wait"
+    },
+    {
+      "command_type": "play_sfx",
+      "id": 9
+    },
+    {
+      "command_type": "show_background",
+      "id": -1
+    },
+    {
+      "command_type": "show_background",
+      "id": 16
+    },
+    {
+      "command_type": "click_wait"
+    },
+    {
+      "command_type": "message",
+      "text": "私は薫ちゃんの腕をしっかり掴んだ。そして3人一緒に校舎の中へと入った"
+    },
+    {
+      "command_type": "message",
+      "text": "3階の中は薄暗く、不気味な雰囲気に包まれていた。これなら正直何が出てきてもおかしくない。"
+    },
+    {
+      "command_type": "click_wait"
+    },
+    {
+      "command_type": "show_character",
+      "position": "left",
+      "chara_id": 0,
+      "id": 1
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": 1,
+      "id": 1
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": 2,
+      "id": 1
+    },
+    {
+      "command_type": "message",
+      "text": "「暗いね・・・」",
+      "name": "ユキ"
+    },
+    {
+      "command_type": "message",
+      "text": "「私の近くにいれば大丈夫よ。怜奈！一人で遠くに行かないで！危ないわ！」",
+      "name": "薫"
+    },
+    {
+      "command_type": "show_character",
+      "position": "left",
+      "chara_id": 0,
+      "id": 0
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": 1,
+      "id": 0
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": 2,
+      "id": 0
+    },
+    {
+      "command_type": "show_background",
+      "id": -1
+    },
+    {
+      "command_type": "show_background",
+      "id": 11
+    },
+    {
+      "command_type": "message",
+      "text": "「これ見て。美術室よ。中に入って見てみない?",
+      "name": "怜奈"
+    },
+    {
+      "command_type": "message",
+      "text": "「分かったわ。でも少しだけよ?」",
+      "name": "薫"
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": 1,
+      "id": 1
+    },
+    {
+      "command_type": "message",
+      "text": "「わーい」",
+      "name": "怜奈"
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": 1,
+      "id": 0
+    },
+    {
+      "command_type": "click_wait"
+    },
+    {
+      "command_type": "show_character",
+      "position": "left",
+      "chara_id": -1
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": -1
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": -1
+    },
+    {
+      "command_type": "clear_message"
+    },
+    {
+      "command_type": "show_background",
+      "id": -1
+    },
+    {
+      "command_type": "show_background",
+      "id": 6
+    },
+    {
+      "command_type": "message",
+      "text": "美術室なんてベタだなぁ・・・,でも行くしかないか。あぁ言った怜奈ちゃんは止められそうにない。"
+    },
+    {
+      "command_type": "message",
+      "text": "室内は絵画などが腐敗していて汚臭が立ち込めていた。ここにずっといたら自分まで腐ってしまいそうだ。"
+    },
+    {
+      "command_type": "show_character",
+      "position": "left",
+      "chara_id": 0,
+      "id": 0
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": 1,
+      "id": 0
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": 2,
+      "id": 0
+    },
+    {
+      "command_type": "message",
+      "text": "「ここに幽霊いそうじゃない?」",
+      "name": "怜奈"
+    },
+    {
+      "command_type": "message",
+      "text": "この部屋変なにおいする・・・",
+      "name": "ユキ"
+    },
+    {
+      "command_type": "message",
+      "text": "まぁ、何年も放棄されてたんだし、紙や絵も腐ってるかもしれない。ここの空気を吸うのは危険だわ。",
+      "name": "薫"
+    },
+    {
+      "command_type": "message",
+      "text": "写真を見つけた。裏には美術部と書いてある。しかも25年前・・・こんなに古いのが残ってるなんて! まぁ、制服はダサいけど。",
+      "name": "怜奈"
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": -1
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": -1
+    },
+    {
+      "command_type": "show_character",
+      "position": "left",
+      "chara_id": -1
+    },
+    {
+      "command_type": "click_wait"
+    },
+    {
+      "command_type": "show_character",
+      "position": "photo",
+      "chara_id": 3,
+      "id": 0
+    },
+    {
+      "command_type": "message",
+      "text": "「ちょっとよく見せて!この写真妙ね・・・ここ、見える?」",
+      "name": "薫"
+    },
+    {
+      "command_type": "message",
+      "text": "「ただの汚れじゃん。」",
+      "name": "怜奈"
+    },
+    {
+      "command_type": "message",
+      "text": "「いや、何か・・・人のように見えるんだけど・・・ぼやけてよく見えないわね・・・」",
+      "name": "薫"
+    },
+    {
+      "command_type": "message",
+      "text": "「何も見えないって。特に何も無さそうなら、ここから出ましょ?」",
+      "name": "怜奈"
+    },
+    {
+      "command_type": "show_character",
+      "position": "photo",
+      "chara_id": -1
+    },
+    {
+      "command_type": "show_background",
+      "id": -1
+    },
+    {
+      "command_type": "show_background",
+      "id": 7
+    },
+    {
+      "command_type": "show_character",
+      "position": "left",
+      "chara_id": 0,
+      "id": 5
+    },
+    {
+      "command_type": "message",
+      "text": "「もう家に帰ろうよぅ・・・」",
+      "name": "ユキ"
+    },
+    {
+      "command_type": "click_wait"
+    },
+    {
+      "command_type": "show_background",
+      "id": -1
+    },
+    {
+      "command_type": "show_background",
+      "id": 2
+    },
+    {
+      "command_type": "message",
+      "text": "もうだめ・・・疲れた・・・私たち本当に帰れるの?",
+      "name": "ユキ"
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": 1,
+      "id": 2
+    },
+    {
+      "command_type": "message",
+      "text": "「ならユキだけでも帰れば。一人で帰れるのなら。」",
+      "name": "怜奈"
+    },
+    {
+      "command_type": "message",
+      "text": "「やだやだ！そんなこといわないでよ・・・」",
+      "name": "ユキ"
+    },
+    {
+      "command_type": "message",
+      "text": "怜奈ちゃんの興味への執着心にはかないそうにない。どのみち安全に帰るにはみんなについていくしかなさそうだ。"
+    },
+    {
+      "command_type": "clear_message"
+    },
+    {
+      "command_type": "play_sfx",
+      "id": 8
+    },
+    {
+      "command_type": "show_background",
+      "id": -1
+    },
+    {
+      "command_type": "show_background",
+      "id": 3
+    },
+    {
+      "command_type": "click_wait"
+    },
+    {
+      "command_type": "show_character",
+      "position": "left",
+      "chara_id": 0,
+      "id": 5
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": 1,
+      "id": 3
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": 2,
+      "id": 2
+    },
+    {
+      "command_type": "message",
+      "text": "「何・・・?」",
+      "name": "薫"
+    },
+    {
+      "command_type": "message",
+      "text": "「なんでチャイムの音が?この学校に私たち以外に・・・?」",
+      "name": "怜奈"
+    },
+    {
+      "command_type": "message",
+      "text": "「怖いよ～！何が起きているの!?」",
+      "name": "ユキ"
+    },
+    {
+      "command_type": "play_sfx",
+      "id": 8
+    },
+    {
+      "command_type": "message",
+      "text": "急なチャイム音に私たちは動揺した。まるでうめき声のようにも聞こえる音だった。"
+    },
+    {
+      "command_type": "message",
+      "text": "「きゃあああ！暗くて何も見えない!」",
+      "name": "ユキ"
+    },
+    {
+      "command_type": "camera_shake",
+      "shake": "a"
+    },
+    {
+      "command_type": "message",
+      "text": "「何が起きているの?携帯のライトも消えちゃったし。怜奈、あんた何かした?」",
+      "name": "薫"
+    },
+    {
+      "command_type": "message",
+      "text": "「私のせいじゃないわ。携帯だって使ってないし。」",
+      "name": "怜奈"
+    },
+    {
+      "command_type": "play_sfx",
+      "id": 8
+    },
+    {
+      "command_type": "message",
+      "text": "暗くて動けない。怖い。怖い。怖い。怖い。ただひたすら、その場に立ち尽くすしかなかった。",
+      "name": "怜奈"
+    },
+    {
+      "command_type": "message",
+      "text": "携帯のライトが戻る"
+    },
+    {
+      "command_type": "show_background",
+      "id": -1
+    },
+    {
+      "command_type": "show_background",
+      "id": 2
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": 2,
+      "id": 2
+    },
+    {
+      "command_type": "message",
+      "text": "「あれ?チャイムが鳴り終わったら、急に元に戻った・・・」",
+      "name": "薫"
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": 1,
+      "id": 4
+    },
+    {
+      "command_type": "message",
+      "text": "「うん。私の携帯も。」",
+      "name": "怜奈"
+    },
+    {
+      "command_type": "show_character",
+      "position": "right",
+      "chara_id": 2,
+      "id": 3
+    },
+    {
+      "command_type": "message",
+      "text": "「何かおかしい・・・怜奈、もうここから出よう!」」",
+      "name": "薫"
+    },
+    {
+      "command_type": "show_character",
+      "position": "left",
+      "chara_id": 0,
+      "id": 2
+    },
+    {
+      "command_type": "message",
+      "text": "「そうだよ!ここから出よう!」",
+      "name": "ユキ"
+    },
+    {
+      "command_type": "show_background",
+      "id": -1
+    },
+    {
+      "command_type": "show_background",
+      "id": 17
+    },
+    {
+      "command_type": "message",
+      "text": "「それはそうだけど・・・この怪奇現象が何なのか知りたい。もう少し調べましょう。」",
+      "name": "怜奈"
+    },
+    {
+      "command_type": "message",
+      "text": "「いいえ、だめよ!この学校は危険だわ。ユキだってこんなに震えてるし!」",
+      "name": "薫"
+    },
+    {
+      "command_type": "message",
+      "text": "「怜奈ちゃん・・・本当にだめ・・・」",
+      "name": "ユキ"
+    },
+    {
+      "command_type": "message",
+      "text": "こんな状況に、こんな空間に耐えられるわけがなかった。もう帰りたい。頭の中はそれでいっぱいだった。"
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": 1,
+      "id": 1
+    },
+    {
+      "command_type": "show_character",
+      "position": "center",
+      "chara_id": 1,
+      "id": 2
+    },
+    {
+      "command_type": "message",
+      "text": "「はぁ・・・分かった。幽霊を捕まえられなかったのは残念だけど。」",
+      "name": "怜奈"
+    },
+    {
+      "command_type": "message",
+      "text": "「屋上に行って全体の様子を見ましょう!」",
+      "name": "薫"
+    },
+    {
+      "command_type": "change_scene",
+      "id": 1
+    }
+  ]
+}
